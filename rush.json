@@ -691,6 +691,11 @@
       "shouldPublish": true
     },
     {
+      "packageName": "@yuants/app-alert-controller",
+      "projectFolder": "apps/alert-controller",
+      "shouldPublish": true
+    },
+    {
       "packageName": "@yuants/tool-busybox",
       "projectFolder": "tools/busybox",
       "shouldPublish": true
